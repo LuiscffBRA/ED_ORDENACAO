@@ -1,0 +1,842 @@
+[
+  {
+    "algorithm": "Bubble Sort",
+    "dataType": "Aleatório",
+    "repetition": 1,
+    "time": 249.0849,
+    "memory": 6571.84375
+  },
+  {
+    "algorithm": "Bubble Sort",
+    "dataType": "Aleatório",
+    "repetition": 2,
+    "time": 240.77030000000002,
+    "memory": 5250.203125
+  },
+  {
+    "algorithm": "Bubble Sort",
+    "dataType": "Aleatório",
+    "repetition": 3,
+    "time": 255.1947,
+    "memory": 5934.90625
+  },
+  {
+    "algorithm": "Bubble Sort",
+    "dataType": "Aleatório",
+    "repetition": 4,
+    "time": 265.4827999999999,
+    "memory": 6619.8125
+  },
+  {
+    "algorithm": "Bubble Sort",
+    "dataType": "Aleatório",
+    "repetition": 5,
+    "time": 244.1461999999999,
+    "memory": 5291.421875
+  },
+  {
+    "algorithm": "Bubble Sort",
+    "dataType": "Aleatório",
+    "repetition": 6,
+    "time": 245.33659999999986,
+    "memory": 5976.34375
+  },
+  {
+    "algorithm": "Bubble Sort",
+    "dataType": "Aleatório",
+    "repetition": 7,
+    "time": 252.9873,
+    "memory": 6661.3515625
+  },
+  {
+    "algorithm": "Bubble Sort",
+    "dataType": "Aleatório",
+    "repetition": 8,
+    "time": 245.62040000000002,
+    "memory": 7365.4296875
+  },
+  {
+    "algorithm": "Bubble Sort",
+    "dataType": "Aleatório",
+    "repetition": 9,
+    "time": 240.79689999999982,
+    "memory": 6039.0546875
+  },
+  {
+    "algorithm": "Bubble Sort",
+    "dataType": "Aleatório",
+    "repetition": 10,
+    "time": 248.2560999999996,
+    "memory": 6723.9921875
+  },
+  {
+    "algorithm": "Insertion Sort",
+    "dataType": "Aleatório",
+    "repetition": 1,
+    "time": 18.79589999999962,
+    "memory": 6815.109375
+  },
+  {
+    "algorithm": "Insertion Sort",
+    "dataType": "Aleatório",
+    "repetition": 2,
+    "time": 16.97759999999971,
+    "memory": 6894.4296875
+  },
+  {
+    "algorithm": "Insertion Sort",
+    "dataType": "Aleatório",
+    "repetition": 3,
+    "time": 17.102600000000166,
+    "memory": 7015.2578125
+  },
+  {
+    "algorithm": "Insertion Sort",
+    "dataType": "Aleatório",
+    "repetition": 4,
+    "time": 17.040899999999965,
+    "memory": 7094.359375
+  },
+  {
+    "algorithm": "Insertion Sort",
+    "dataType": "Aleatório",
+    "repetition": 5,
+    "time": 17.608099999999922,
+    "memory": 7173.4609375
+  },
+  {
+    "algorithm": "Insertion Sort",
+    "dataType": "Aleatório",
+    "repetition": 6,
+    "time": 20.319300000000112,
+    "memory": 7266.9453125
+  },
+  {
+    "algorithm": "Insertion Sort",
+    "dataType": "Aleatório",
+    "repetition": 7,
+    "time": 17.083200000000033,
+    "memory": 7346.046875
+  },
+  {
+    "algorithm": "Insertion Sort",
+    "dataType": "Aleatório",
+    "repetition": 8,
+    "time": 17.630199999999604,
+    "memory": 7425.1484375
+  },
+  {
+    "algorithm": "Insertion Sort",
+    "dataType": "Aleatório",
+    "repetition": 9,
+    "time": 17.49270000000024,
+    "memory": 7518.6328125
+  },
+  {
+    "algorithm": "Insertion Sort",
+    "dataType": "Aleatório",
+    "repetition": 10,
+    "time": 17.60440000000017,
+    "memory": 7597.734375
+  },
+  {
+    "algorithm": "Quick Sort",
+    "dataType": "Aleatório",
+    "repetition": 1,
+    "time": 4.733000000000175,
+    "memory": 5929.421875
+  },
+  {
+    "algorithm": "Quick Sort",
+    "dataType": "Aleatório",
+    "repetition": 2,
+    "time": 1.2640000000001237,
+    "memory": 7030.640625
+  },
+  {
+    "algorithm": "Quick Sort",
+    "dataType": "Aleatório",
+    "repetition": 3,
+    "time": 0.9167999999999665,
+    "memory": 6322.796875
+  },
+  {
+    "algorithm": "Quick Sort",
+    "dataType": "Aleatório",
+    "repetition": 4,
+    "time": 0.7980999999999767,
+    "memory": 7511.2734375
+  },
+  {
+    "algorithm": "Quick Sort",
+    "dataType": "Aleatório",
+    "repetition": 5,
+    "time": 1.4425000000001091,
+    "memory": 6835.3046875
+  },
+  {
+    "algorithm": "Quick Sort",
+    "dataType": "Aleatório",
+    "repetition": 6,
+    "time": 1.0421000000001186,
+    "memory": 6125.25
+  },
+  {
+    "algorithm": "Quick Sort",
+    "dataType": "Aleatório",
+    "repetition": 7,
+    "time": 0.605199999999968,
+    "memory": 7309.203125
+  },
+  {
+    "algorithm": "Quick Sort",
+    "dataType": "Aleatório",
+    "repetition": 8,
+    "time": 0.7377999999998792,
+    "memory": 8497.2421875
+  },
+  {
+    "algorithm": "Quick Sort",
+    "dataType": "Aleatório",
+    "repetition": 9,
+    "time": 0.9200000000000728,
+    "memory": 9749.703125
+  },
+  {
+    "algorithm": "Quick Sort",
+    "dataType": "Aleatório",
+    "repetition": 10,
+    "time": 0.649199999999837,
+    "memory": 7064.4296875
+  },
+  {
+    "algorithm": "Merge Sort",
+    "dataType": "Aleatório",
+    "repetition": 1,
+    "time": 6.584000000000287,
+    "memory": 9565.6875
+  },
+  {
+    "algorithm": "Merge Sort",
+    "dataType": "Aleatório",
+    "repetition": 2,
+    "time": 3.7507000000000517,
+    "memory": 7885.2890625
+  },
+  {
+    "algorithm": "Merge Sort",
+    "dataType": "Aleatório",
+    "repetition": 3,
+    "time": 4.797399999999925,
+    "memory": 10111.4296875
+  },
+  {
+    "algorithm": "Merge Sort",
+    "dataType": "Aleatório",
+    "repetition": 4,
+    "time": 3.705999999999676,
+    "memory": 8411.0546875
+  },
+  {
+    "algorithm": "Merge Sort",
+    "dataType": "Aleatório",
+    "repetition": 5,
+    "time": 3.9884000000001834,
+    "memory": 6900.9921875
+  },
+  {
+    "algorithm": "Merge Sort",
+    "dataType": "Aleatório",
+    "repetition": 6,
+    "time": 3.504699999999957,
+    "memory": 9110.1953125
+  },
+  {
+    "algorithm": "Merge Sort",
+    "dataType": "Aleatório",
+    "repetition": 7,
+    "time": 5.222200000000157,
+    "memory": 7504.9765625
+  },
+  {
+    "algorithm": "Merge Sort",
+    "dataType": "Aleatório",
+    "repetition": 8,
+    "time": 3.8948999999997795,
+    "memory": 9714.2734375
+  },
+  {
+    "algorithm": "Merge Sort",
+    "dataType": "Aleatório",
+    "repetition": 9,
+    "time": 4.6469999999999345,
+    "memory": 11727.7734375
+  },
+  {
+    "algorithm": "Merge Sort",
+    "dataType": "Aleatório",
+    "repetition": 10,
+    "time": 4.842399999999998,
+    "memory": 13741.3671875
+  },
+  {
+    "algorithm": "Bubble Sort",
+    "dataType": "Crescente",
+    "repetition": 1,
+    "time": 70.25480000000016,
+    "memory": 14593.6640625
+  },
+  {
+    "algorithm": "Bubble Sort",
+    "dataType": "Crescente",
+    "repetition": 2,
+    "time": 69.75579999999991,
+    "memory": 14672.78125
+  },
+  {
+    "algorithm": "Bubble Sort",
+    "dataType": "Crescente",
+    "repetition": 3,
+    "time": 69.62419999999975,
+    "memory": 14751.8984375
+  },
+  {
+    "algorithm": "Bubble Sort",
+    "dataType": "Crescente",
+    "repetition": 4,
+    "time": 73.1594,
+    "memory": 14845.3515625
+  },
+  {
+    "algorithm": "Bubble Sort",
+    "dataType": "Crescente",
+    "repetition": 5,
+    "time": 69.33059999999978,
+    "memory": 14925.125
+  },
+  {
+    "algorithm": "Bubble Sort",
+    "dataType": "Crescente",
+    "repetition": 6,
+    "time": 72.2518,
+    "memory": 15004.2421875
+  },
+  {
+    "algorithm": "Bubble Sort",
+    "dataType": "Crescente",
+    "repetition": 7,
+    "time": 71.38950000000023,
+    "memory": 7294.8203125
+  },
+  {
+    "algorithm": "Bubble Sort",
+    "dataType": "Crescente",
+    "repetition": 8,
+    "time": 72.05380000000014,
+    "memory": 7373.9375
+  },
+  {
+    "algorithm": "Bubble Sort",
+    "dataType": "Crescente",
+    "repetition": 9,
+    "time": 66.8502999999996,
+    "memory": 7453.0546875
+  },
+  {
+    "algorithm": "Bubble Sort",
+    "dataType": "Crescente",
+    "repetition": 10,
+    "time": 68.75660000000016,
+    "memory": 7546.5078125
+  },
+  {
+    "algorithm": "Insertion Sort",
+    "dataType": "Crescente",
+    "repetition": 1,
+    "time": 0.03110000000015134,
+    "memory": 7627.3828125
+  },
+  {
+    "algorithm": "Insertion Sort",
+    "dataType": "Crescente",
+    "repetition": 2,
+    "time": 0.024200000000291766,
+    "memory": 7706.5
+  },
+  {
+    "algorithm": "Insertion Sort",
+    "dataType": "Crescente",
+    "repetition": 3,
+    "time": 0.019499999999879947,
+    "memory": 7798.7890625
+  },
+  {
+    "algorithm": "Insertion Sort",
+    "dataType": "Crescente",
+    "repetition": 4,
+    "time": 0.01919999999972788,
+    "memory": 7877.90625
+  },
+  {
+    "algorithm": "Insertion Sort",
+    "dataType": "Crescente",
+    "repetition": 5,
+    "time": 0.02430000000003929,
+    "memory": 7957.0234375
+  },
+  {
+    "algorithm": "Insertion Sort",
+    "dataType": "Crescente",
+    "repetition": 6,
+    "time": 0.023999999999887223,
+    "memory": 8050.4765625
+  },
+  {
+    "algorithm": "Insertion Sort",
+    "dataType": "Crescente",
+    "repetition": 7,
+    "time": 0.01929999999993015,
+    "memory": 8129.59375
+  },
+  {
+    "algorithm": "Insertion Sort",
+    "dataType": "Crescente",
+    "repetition": 8,
+    "time": 0.02419999999983702,
+    "memory": 8208.7109375
+  },
+  {
+    "algorithm": "Insertion Sort",
+    "dataType": "Crescente",
+    "repetition": 9,
+    "time": 0.019200000000182627,
+    "memory": 8302.1640625
+  },
+  {
+    "algorithm": "Insertion Sort",
+    "dataType": "Crescente",
+    "repetition": 10,
+    "time": 0.02430000000003929,
+    "memory": 8381.28125
+  },
+  {
+    "algorithm": "Quick Sort",
+    "dataType": "Crescente",
+    "repetition": 1,
+    "time": 0.46059999999988577,
+    "memory": 9575.4609375
+  },
+  {
+    "algorithm": "Quick Sort",
+    "dataType": "Crescente",
+    "repetition": 2,
+    "time": 0.4645999999997912,
+    "memory": 10762.3671875
+  },
+  {
+    "algorithm": "Quick Sort",
+    "dataType": "Crescente",
+    "repetition": 3,
+    "time": 0.4513000000001739,
+    "memory": 11952.2109375
+  },
+  {
+    "algorithm": "Quick Sort",
+    "dataType": "Crescente",
+    "repetition": 4,
+    "time": 0.5326000000000022,
+    "memory": 13182.921875
+  },
+  {
+    "algorithm": "Quick Sort",
+    "dataType": "Crescente",
+    "repetition": 5,
+    "time": 0.4639999999999418,
+    "memory": 14448.7421875
+  },
+  {
+    "algorithm": "Quick Sort",
+    "dataType": "Crescente",
+    "repetition": 6,
+    "time": 0.6071999999999207,
+    "memory": 7505.78125
+  },
+  {
+    "algorithm": "Quick Sort",
+    "dataType": "Crescente",
+    "repetition": 7,
+    "time": 0.3530000000000655,
+    "memory": 8742.7265625
+  },
+  {
+    "algorithm": "Quick Sort",
+    "dataType": "Crescente",
+    "repetition": 8,
+    "time": 0.3584000000000742,
+    "memory": 9996.078125
+  },
+  {
+    "algorithm": "Quick Sort",
+    "dataType": "Crescente",
+    "repetition": 9,
+    "time": 0.3589999999999236,
+    "memory": 11255.828125
+  },
+  {
+    "algorithm": "Quick Sort",
+    "dataType": "Crescente",
+    "repetition": 10,
+    "time": 0.3668999999999869,
+    "memory": 12516.3984375
+  },
+  {
+    "algorithm": "Merge Sort",
+    "dataType": "Crescente",
+    "repetition": 1,
+    "time": 4.252100000000155,
+    "memory": 13219.125
+  },
+  {
+    "algorithm": "Merge Sort",
+    "dataType": "Crescente",
+    "repetition": 2,
+    "time": 3.0814000000000306,
+    "memory": 14065.9296875
+  },
+  {
+    "algorithm": "Merge Sort",
+    "dataType": "Crescente",
+    "repetition": 3,
+    "time": 2.99350000000004,
+    "memory": 14942.421875
+  },
+  {
+    "algorithm": "Merge Sort",
+    "dataType": "Crescente",
+    "repetition": 4,
+    "time": 3.179500000000189,
+    "memory": 7891.4140625
+  },
+  {
+    "algorithm": "Merge Sort",
+    "dataType": "Crescente",
+    "repetition": 5,
+    "time": 3.009399999999914,
+    "memory": 8681.125
+  },
+  {
+    "algorithm": "Merge Sort",
+    "dataType": "Crescente",
+    "repetition": 6,
+    "time": 3.120600000000195,
+    "memory": 9562.046875
+  },
+  {
+    "algorithm": "Merge Sort",
+    "dataType": "Crescente",
+    "repetition": 7,
+    "time": 3.3575000000000728,
+    "memory": 10408.4765625
+  },
+  {
+    "algorithm": "Merge Sort",
+    "dataType": "Crescente",
+    "repetition": 8,
+    "time": 3.7621000000003733,
+    "memory": 11198.28125
+  },
+  {
+    "algorithm": "Merge Sort",
+    "dataType": "Crescente",
+    "repetition": 9,
+    "time": 3.824200000000019,
+    "memory": 12040.125
+  },
+  {
+    "algorithm": "Merge Sort",
+    "dataType": "Crescente",
+    "repetition": 10,
+    "time": 3.162499999999909,
+    "memory": 12925.6328125
+  },
+  {
+    "algorithm": "Bubble Sort",
+    "dataType": "Decrescente",
+    "repetition": 1,
+    "time": 346.9528999999998,
+    "memory": 8650.515625
+  },
+  {
+    "algorithm": "Bubble Sort",
+    "dataType": "Decrescente",
+    "repetition": 2,
+    "time": 335.4327000000003,
+    "memory": 11653.359375
+  },
+  {
+    "algorithm": "Bubble Sort",
+    "dataType": "Decrescente",
+    "repetition": 3,
+    "time": 350.1891999999998,
+    "memory": 14656.09375
+  },
+  {
+    "algorithm": "Bubble Sort",
+    "dataType": "Decrescente",
+    "repetition": 4,
+    "time": 345.0496000000003,
+    "memory": 9608.015625
+  },
+  {
+    "algorithm": "Bubble Sort",
+    "dataType": "Decrescente",
+    "repetition": 5,
+    "time": 326.6180000000004,
+    "memory": 12610.6640625
+  },
+  {
+    "algorithm": "Bubble Sort",
+    "dataType": "Decrescente",
+    "repetition": 6,
+    "time": 327.6306999999997,
+    "memory": 15613.3984375
+  },
+  {
+    "algorithm": "Bubble Sort",
+    "dataType": "Decrescente",
+    "repetition": 7,
+    "time": 335.7429000000002,
+    "memory": 10562.046875
+  },
+  {
+    "algorithm": "Bubble Sort",
+    "dataType": "Decrescente",
+    "repetition": 8,
+    "time": 330.73149999999987,
+    "memory": 13564.78125
+  },
+  {
+    "algorithm": "Bubble Sort",
+    "dataType": "Decrescente",
+    "repetition": 9,
+    "time": 358.14889999999923,
+    "memory": 8513.515625
+  },
+  {
+    "algorithm": "Bubble Sort",
+    "dataType": "Decrescente",
+    "repetition": 10,
+    "time": 327.5609999999997,
+    "memory": 11516.1640625
+  },
+  {
+    "algorithm": "Insertion Sort",
+    "dataType": "Decrescente",
+    "repetition": 1,
+    "time": 33.414200000000164,
+    "memory": 11646.421875
+  },
+  {
+    "algorithm": "Insertion Sort",
+    "dataType": "Decrescente",
+    "repetition": 2,
+    "time": 33.89470000000074,
+    "memory": 11725.5390625
+  },
+  {
+    "algorithm": "Insertion Sort",
+    "dataType": "Decrescente",
+    "repetition": 3,
+    "time": 33.311499999999796,
+    "memory": 11804.65625
+  },
+  {
+    "algorithm": "Insertion Sort",
+    "dataType": "Decrescente",
+    "repetition": 4,
+    "time": 34.3167999999996,
+    "memory": 11898.109375
+  },
+  {
+    "algorithm": "Insertion Sort",
+    "dataType": "Decrescente",
+    "repetition": 5,
+    "time": 34.366399999999885,
+    "memory": 11977.2265625
+  },
+  {
+    "algorithm": "Insertion Sort",
+    "dataType": "Decrescente",
+    "repetition": 6,
+    "time": 33.199399999999514,
+    "memory": 12056.34375
+  },
+  {
+    "algorithm": "Insertion Sort",
+    "dataType": "Decrescente",
+    "repetition": 7,
+    "time": 34.587100000000646,
+    "memory": 12149.796875
+  },
+  {
+    "algorithm": "Insertion Sort",
+    "dataType": "Decrescente",
+    "repetition": 8,
+    "time": 33.918900000000576,
+    "memory": 12228.9140625
+  },
+  {
+    "algorithm": "Insertion Sort",
+    "dataType": "Decrescente",
+    "repetition": 9,
+    "time": 33.76209999999992,
+    "memory": 12308.03125
+  },
+  {
+    "algorithm": "Insertion Sort",
+    "dataType": "Decrescente",
+    "repetition": 10,
+    "time": 34.83670000000075,
+    "memory": 12401.484375
+  },
+  {
+    "algorithm": "Quick Sort",
+    "dataType": "Decrescente",
+    "repetition": 1,
+    "time": 0.505500000000211,
+    "memory": 13589.1953125
+  },
+  {
+    "algorithm": "Quick Sort",
+    "dataType": "Decrescente",
+    "repetition": 2,
+    "time": 0.5257000000001426,
+    "memory": 14775.7578125
+  },
+  {
+    "algorithm": "Quick Sort",
+    "dataType": "Decrescente",
+    "repetition": 3,
+    "time": 0.4566000000004351,
+    "memory": 16030.5859375
+  },
+  {
+    "algorithm": "Quick Sort",
+    "dataType": "Decrescente",
+    "repetition": 4,
+    "time": 0.42000000000007276,
+    "memory": 9342.6640625
+  },
+  {
+    "algorithm": "Quick Sort",
+    "dataType": "Decrescente",
+    "repetition": 5,
+    "time": 0.3941999999997279,
+    "memory": 10535.4609375
+  },
+  {
+    "algorithm": "Quick Sort",
+    "dataType": "Decrescente",
+    "repetition": 6,
+    "time": 0.4067000000004555,
+    "memory": 11752.2265625
+  },
+  {
+    "algorithm": "Quick Sort",
+    "dataType": "Decrescente",
+    "repetition": 7,
+    "time": 0.37809999999990396,
+    "memory": 13011.484375
+  },
+  {
+    "algorithm": "Quick Sort",
+    "dataType": "Decrescente",
+    "repetition": 8,
+    "time": 0.43139999999948486,
+    "memory": 14274.3515625
+  },
+  {
+    "algorithm": "Quick Sort",
+    "dataType": "Decrescente",
+    "repetition": 9,
+    "time": 0.5061999999998079,
+    "memory": 15527.046875
+  },
+  {
+    "algorithm": "Quick Sort",
+    "dataType": "Decrescente",
+    "repetition": 10,
+    "time": 0.6428999999998268,
+    "memory": 8525.734375
+  },
+  {
+    "algorithm": "Merge Sort",
+    "dataType": "Decrescente",
+    "repetition": 1,
+    "time": 3.2893999999996595,
+    "memory": 9964.6015625
+  },
+  {
+    "algorithm": "Merge Sort",
+    "dataType": "Decrescente",
+    "repetition": 2,
+    "time": 3.61200000000008,
+    "memory": 11223.1328125
+  },
+  {
+    "algorithm": "Merge Sort",
+    "dataType": "Decrescente",
+    "repetition": 3,
+    "time": 3.0951999999997497,
+    "memory": 12572.875
+  },
+  {
+    "algorithm": "Merge Sort",
+    "dataType": "Decrescente",
+    "repetition": 4,
+    "time": 3.01549999999952,
+    "memory": 13913.6796875
+  },
+  {
+    "algorithm": "Merge Sort",
+    "dataType": "Decrescente",
+    "repetition": 5,
+    "time": 3.0529999999998836,
+    "memory": 15289.5234375
+  },
+  {
+    "algorithm": "Merge Sort",
+    "dataType": "Decrescente",
+    "repetition": 6,
+    "time": 3.3176000000003114,
+    "memory": 8745.9140625
+  },
+  {
+    "algorithm": "Merge Sort",
+    "dataType": "Decrescente",
+    "repetition": 7,
+    "time": 3.2560999999996056,
+    "memory": 10082.5546875
+  },
+  {
+    "algorithm": "Merge Sort",
+    "dataType": "Decrescente",
+    "repetition": 8,
+    "time": 3.5189000000000306,
+    "memory": 11432.296875
+  },
+  {
+    "algorithm": "Merge Sort",
+    "dataType": "Decrescente",
+    "repetition": 9,
+    "time": 3.0288000000000466,
+    "memory": 12773.1015625
+  },
+  {
+    "algorithm": "Merge Sort",
+    "dataType": "Decrescente",
+    "repetition": 10,
+    "time": 3.005699999999706,
+    "memory": 14109.8359375
+  }
+]

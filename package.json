@@ -1,0 +1,14 @@
+{
+  "name": "analise-ordenacao",
+  "version": "1.0.0",
+  "description": "Análise estatística de algoritmos de ordenação.",
+  "main": "src/2_runExperiments.js",
+  "type": "module",
+  "scripts": {
+    "prepare": "node src/1_prepareData.js",
+    "start": "node src/2_runExperiments.js",
+    "report": "node src/3_generateReport.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
